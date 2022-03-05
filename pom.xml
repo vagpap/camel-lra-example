@@ -12,11 +12,8 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>11</java.version>
 
-<!-- 		<apache-camel.version>3.14.1</apache-camel.version> -->
-<!-- 		<spring.boot-version>2.6.3</spring.boot-version> -->
-
-		<apache-camel.version>3.7.2</apache-camel.version>
-		<spring.boot-version>2.4.2</spring.boot-version>
+		<apache-camel.version>3.14.1</apache-camel.version>
+		<spring.boot-version>2.6.3</spring.boot-version>
 
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 		<jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
